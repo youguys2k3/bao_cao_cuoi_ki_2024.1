@@ -1,0 +1,24 @@
+--cpu Cortex-M3
+"tkhtn_donnhiem_1\startup_stm32f103xb.o"
+"tkhtn_donnhiem_1\main.o"
+"tkhtn_donnhiem_1\stm32f1xx_it.o"
+"tkhtn_donnhiem_1\stm32f1xx_hal_msp.o"
+"tkhtn_donnhiem_1\stm32f1xx_hal_gpio_ex.o"
+"tkhtn_donnhiem_1\stm32f1xx_hal_tim.o"
+"tkhtn_donnhiem_1\stm32f1xx_hal_tim_ex.o"
+"tkhtn_donnhiem_1\stm32f1xx_hal.o"
+"tkhtn_donnhiem_1\stm32f1xx_hal_rcc.o"
+"tkhtn_donnhiem_1\stm32f1xx_hal_rcc_ex.o"
+"tkhtn_donnhiem_1\stm32f1xx_hal_gpio.o"
+"tkhtn_donnhiem_1\stm32f1xx_hal_dma.o"
+"tkhtn_donnhiem_1\stm32f1xx_hal_cortex.o"
+"tkhtn_donnhiem_1\stm32f1xx_hal_pwr.o"
+"tkhtn_donnhiem_1\stm32f1xx_hal_flash.o"
+"tkhtn_donnhiem_1\stm32f1xx_hal_flash_ex.o"
+"tkhtn_donnhiem_1\stm32f1xx_hal_exti.o"
+"tkhtn_donnhiem_1\stm32f1xx_hal_uart.o"
+"tkhtn_donnhiem_1\system_stm32f1xx.o"
+--strict --scatter "TKHTN_donnhiem_1\TKHTN_donnhiem_1.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "TKHTN_donnhiem_1.map" -o TKHTN_donnhiem_1\TKHTN_donnhiem_1.axf

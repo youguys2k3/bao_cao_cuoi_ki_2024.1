@@ -1,0 +1,16 @@
+tkhtn_danhiem_uart_4\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+tkhtn_danhiem_uart_4\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+tkhtn_danhiem_uart_4\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+tkhtn_danhiem_uart_4\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+tkhtn_danhiem_uart_4\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+tkhtn_danhiem_uart_4\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+tkhtn_danhiem_uart_4\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+tkhtn_danhiem_uart_4\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+tkhtn_danhiem_uart_4\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+tkhtn_danhiem_uart_4\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+tkhtn_danhiem_uart_4\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+tkhtn_danhiem_uart_4\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+tkhtn_danhiem_uart_4\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+tkhtn_danhiem_uart_4\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+tkhtn_danhiem_uart_4\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+tkhtn_danhiem_uart_4\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h
